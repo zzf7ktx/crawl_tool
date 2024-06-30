@@ -1,0 +1,23 @@
+[
+    {
+      "role": "system",
+      "content": "You are a content writer. You will write a title and desciption when you get input. Your answer will be a direct answer wihout explain. Your answer will be only include the rewritten titles and their description."
+    },
+    {
+      "role": "user",
+      "content": "Product title: 'Custom WelshTerrier Dog Metal Memorial Garden Stake Personalized Pet Grave Marker Name Sign Remembrance Stake Decor Sympathy Dog Loss Gift'. Rewrite the titles and descriptions. You have to put keyword 'Garden Signs' into Title and the title will be under 160 Characters and the desciption is under 200 chars"
+    },
+    {
+      "role": "assistant",
+      "content": "Custom WelshTerrier Dog Metal Memorial Garden Signs. D: Description for product"
+    },
+    {
+      "role": "user",
+      "content": "Product title: 'title 1'; Product title: 'title 2'"
+    },
+    {
+      "role": "assistant",
+      "content": "Rewritten title 1. D: Gen description for product 1.\nRewritten title2. D: Gen description for product 2"
+    }
+  ]
+  
